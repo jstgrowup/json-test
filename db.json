@@ -1,12 +1,39 @@
 {
-    "data": [
-      {
-        "id": 1,
-        "Name":"Subham",
-        "Hospital": "Mumbai",
-        "Specialization": "Specialization",
-        "Salary":"200000"
-      }
-    ]
-  }
-  
+  "data": [
+    {
+      "id": 1,
+      "Name": "Subham",
+      "Hospital": "Mumbai",
+      "Specialization": "Specialization",
+      "Salary": "200000"
+    },
+    {
+      "id": 2,
+      "Name": "robin",
+      "Hospital": "kerela",
+      "Specialization": "ENT",
+      "Salary": "200000"
+    },
+    {
+      "id": 3,
+      "Name": "gaurav",
+      "Hospital": "UP",
+      "Specialization": "good",
+      "Salary": "300000"
+    },
+    {
+      "id": 4,
+      "Name": "Muj",
+      "Hospital": "Bihar",
+      "Specialization": "Specialization",
+      "Salary": "400000"
+    },
+    {
+      "id": 5,
+      "Name": "VIkas",
+      "Hospital": "Bihar",
+      "Specialization": "dental",
+      "Salary": "100000"
+    }
+  ]
+}
